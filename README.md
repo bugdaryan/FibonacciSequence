@@ -6,8 +6,8 @@ Program that gets sequence of Fibonacci from specified start and specified count
   1. Go to project directory
   2. Open terminal/bash in that directory
   3. type
-        * dotnet run <start index> <count> (this will print first <count> numbers of Fibonacci sequence started from <start index>)
-        * dotnet run <count> (this will print first <count> numbers of Fibonacci sequence)
+        * dotnet run < start index > < count > (this will print first <count> numbers of Fibonacci sequence started from <start index>)
+        * dotnet run < count > (this will print first <count> numbers of Fibonacci sequence)
         * dotnet run (this will print first 100 elements of Fibonacci sequence)
 
 ##### Run from code
